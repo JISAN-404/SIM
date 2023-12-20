@@ -9,7 +9,7 @@ Remember :- This App Made For Educational Purpose Only. Don't Use Any Iligel Act
 <div align="center">
 
 [![https://m.facebook.com/mrdark404official](https://img.shields.io/badge/FACEBOOK-PAGE-orange.svg?style=flat-square)](https://t.me/jisan90)
-[![https://m.facebook.com/mr.dark.4004](https://img.shields.io/badge/FACEBOOK-OWNER-https://m.facebook.com/mr.dark.4004)](https://m.facebook.com/mr.dark.4004) 
+[![https://m.facebook.com/mr.dark.4004](https://img.shields.io/badge/FACEBOOK-https://m.facebook.com/mr.dark.4004)](https://m.facebook.com/mr.dark.4004) 
  #FUTURE
 - Easy to use 
  - GET MORE FB ACCOUNT
