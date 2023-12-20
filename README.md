@@ -8,15 +8,17 @@
 Remember :- This App Made For Educational Purpose Only. Don't Use Any Iligel Activity And Don't Harm Anyone. MR DARK will not be responsible if you use it for any unethical activity.
 <div align="center">
 
-[![https://m.facebook.com/mrdark404official](https://img.shields.io/badge/FACEBOOK-PAGE-orange.svg?style=flat-square)](https://t.me/jisan90)
-[![https://m.facebook.com/mr.dark.4004](https://img.shields.io/badge/FACEBOOK-https://m.facebook.com/mr.dark.4004)](https://m.facebook.com/mr.dark.4004) 
+[![https://m.facebook.com/mrdark404official](https://img.shields.io/badge/FACEBOOK-PAGE-orange.svg?style=flat-square)](https://m.facebook.com/mrdark404official)
+
+[![https://m.facebook.com/mr.dark.4004](https://img.shields.io/badge/FACEBOOK-ID-orange.svg?style=flat-square)](https://m.facebook.com/mr.dark.4004)
+
+
  #FUTURE
 - Easy to use 
  - GET MORE FB ACCOUNT
  - DARK TOOL APN LIST
  - NO VIRUS IN APP
  - NonRoot/Root Device working
- -  
 
 
 ## Requirements
